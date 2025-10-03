@@ -13,7 +13,7 @@ https://www.nuget.org/packages/PlantUmlClassDiagramGenerator
 		<PackageTags>plantuml</PackageTags>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		<Version>1.3.0.1</Version>
-		<Authors>pierre3</Authors>
+		<Authors>NikolaRusakov</Authors>
 		<Company />
 		<Product />
 		<PackageReleaseNotes>[V1.3.0.1]
